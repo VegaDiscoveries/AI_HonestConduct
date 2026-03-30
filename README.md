@@ -10,6 +10,16 @@
 
 ## Overview
 
+I recently began using copilot for more than code completion. Specifically, Claude 4.6. My experience has resulted in serious concerns. I expect one response I may get is, then don't use the product.
+
+But this product concern is not just about the product - but the systemic issues with the AI industry and copilot/Claude 4.6 are included in that.
+
+I do not want to come off as just another complainer who hasn't even tried to make AI work. I have documented my short experience and it can be found at [https://github.com/VegaDiscoveries/AI_HonestConduct.git](https://github.com/VegaDiscoveries/AI_HonestConduct/blob/main/AI_HonestConduct_SkillEvolution_V1.00_20260327.md).
+
+Please take the time - not just to read the surface page, but also all of the supporting PDF's which contain the actual chat transcripts which led to the surface page.
+
+---
+
 This repository is dedicated to the development and documentation of the `-agent-honest-conduct` skill for AI agents. The goal is to define, enforce, and evolve a set of permanent behavioral and conduct standards, ensuring that AI agents operate with honesty, transparency, capability accuracy, and procedural completeness in all responses and actions.
 
 The project emerged from practical challenges encountered while building real-world AI solutions where agent responses must always be reliable, evidence-based, and entirely free from misleading, fabricated, or inaccurate statements.
