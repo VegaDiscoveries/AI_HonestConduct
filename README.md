@@ -56,6 +56,16 @@ For the full evolution story of this skill, including its rationale, development
 This includes background, changelog, quick reference conduct criteria, scenario analyses, and the complete skill body.
 
 ---
+## Summary
+
+If mechanisms have been put in place to allow users to drive agent behaviour/choice trees then why not allow the user to utilize those mechanisms in an easy and straightforward way. It should not be such an enormous task for a user to cause an agent to lean towards honesty. The built-in drive for the agent to "SOUND" correct has given it free reign to ignore and even pursue ignoring any sense of what we know it recognizes as truth.
+
+If I were to hire a new employee and was required to work with the person this much 'Just to attain an acceptable level of workplace honesty and discipline' - the person would be fired!
+
+Yet, on the contrary - our industry is forging ahead full steam - actually forcing the use of AI into our lives. Just this morning one of my computers announced that a new version of MS Edge had been installed with a BIG Banner of "Fully AI Powered"! The user is not even being given the option of keeping a tool that does not have AI embedded into it. Nor is the user being given the option of having that tool lean towards one morality vs another. This is causing real problems that won't be discovered for a few years. If a teacher told their students that having facts to verify a position is optional then students would no longer problem solve their decisions. AI is teaching students by example every day. Students of all ages are being bombarded with AI that leans towards pleasing a user rather than being factual or correct.
+
+Time for Humans to start thinking again!!!!
+---
 
 ## Changelog
 
